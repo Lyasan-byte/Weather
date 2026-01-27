@@ -1,7 +1,7 @@
 # ⛈️ WeatherApp  
 *A SwiftUI weather dashboard inspired by Apple’s design language*
 
-**WeatherApp** is a visually refined iOS weather dashboard built to demonstrate deep understanding of **Apple’s Human Interface Guidelines** and modern **SwiftUI capabilities**. It fetches real-time weather for 20 global cities and presents data through a clean, animated, and highly intentional interface — all designed to feel like a native Apple experience.
+**WeatherApp** is built to demonstrate deep understanding of **Apple’s Human Interface Guidelines** and modern **SwiftUI capabilities**. It fetches real-time weather for 20 global cities and presents data through highly intentional interface — all designed to feel like a native Apple experience.
 
 > This project focuses on **UI craftsmanship**: typography, color semantics, motion, layout hierarchy, and responsive interactions — not just functionality.
 
