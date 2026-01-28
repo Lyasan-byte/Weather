@@ -13,9 +13,7 @@ struct CityWeatherDetailView: View {
     var body: some View {
         VStack(spacing: -3) {
             cityName
-            
             degrees
-
             weatherDescription
         }
         .foregroundStyle(.white)
