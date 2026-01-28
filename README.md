@@ -29,7 +29,7 @@
 
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
 <div align="center">
   <img src="assets/weather in Kazan.png" width="250" alt="Weather in Kazan" />
