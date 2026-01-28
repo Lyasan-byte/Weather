@@ -32,11 +32,9 @@
 ##  Screenshots
 
 <div align="center">
-  <img src="screenshot1.png" width="250" alt="Main Weather View" />
-  <img src="screenshot2.png" width="250" alt="City List with Gradients" />
-  <img src="screenshot3.png" width="250" alt="Search & Sorting" />
+  <img src="assets/weather in Kazan.png" width="250" alt="Main Weather View" />
+  <img src="assets/ weather in Amsterdam.png" width="250" alt="City List with Gradients" />
   <br>
-  <em>From left to right: Current weather, city list with temp gradients, interactive controls</em>
 </div>
 
 ---
