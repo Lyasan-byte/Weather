@@ -32,9 +32,10 @@
 ##  Screenshots
 
 <div align="center">
-  <img src="assets/weather in Kazan.png" width="250" alt="Main Weather View" />
-  <img src="assets/ weather in Amsterdam.png" width="250" alt="City List with Gradients" />
+  <img src="assets/weather in Kazan.png" width="250" alt="Weather in Kazan" />
+  <img src="assets/weather in Amsterdam.png" width="250" alt="Weather in Amsterdam" />
   <br>
+  <em>From left to right: Weather in Kazan, Weather in Amsterdam</em>
 </div>
 
 ---
