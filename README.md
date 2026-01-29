@@ -1,4 +1,4 @@
-# ⛈️ WeatherApp  
+# 🌤️ Weather  
 *A SwiftUI weather dashboard inspired by Apple’s design language*
 
 > This project focuses on **UI craftsmanship**: typography, color semantics, motion, layout hierarchy, and responsive interactions — not just functionality.
